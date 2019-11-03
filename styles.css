@@ -1,0 +1,53 @@
+.footer {
+
+    background-color: #b2dfdb;
+    font-size: small;
+
+    }
+
+nav {
+    background-color: #b2dfdb;
+ 
+}
+
+
+.inline{
+    display: inline;    
+}
+img {
+    height: 60px;
+    width: auto;
+}
+
+header {
+margin-top: 60px;
+
+}
+.sitebranding {
+
+}
+.dropdown-style{
+    background-color: #b2dfdb;  
+    color: #007bff;
+}
+.logo{
+position: relative;
+padding-right:30px;
+height: 100px;
+width: auto;
+margin-bottom: 0;
+padding-bottom: 20px;
+}
+
+.orgName {
+font-size: 60px;
+padding-left:40px;
+font-weight: bold;
+}
+
+.active{
+    color: black;
+}
+.active2{
+    color: azure;
+}
